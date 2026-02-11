@@ -13,7 +13,7 @@ A simple and clean **Todo List application** built with **Vite, React, TypeScrip
 Create, search, complete, and delete tasks with persistent local storage.
 
 ### 🔗 Live Demo
-👉 https://todolist-vm.web.app
+👉 https://my-portfolio-841e6.web.app/todolist
 
 ---
 
